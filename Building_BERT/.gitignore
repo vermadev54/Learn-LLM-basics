@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#ingnore model and data
+data/
+datasets/
+fine_tuned_bert_regression/
+fine_tuned_bert/
